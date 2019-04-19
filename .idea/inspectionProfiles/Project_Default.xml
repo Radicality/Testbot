@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="17">
+          <list size="26">
             <item index="0" class="java.lang.String" itemvalue="six" />
             <item index="1" class="java.lang.String" itemvalue="pyTelegramBotAPI" />
             <item index="2" class="java.lang.String" itemvalue="packaging" />
@@ -22,6 +22,15 @@
             <item index="14" class="java.lang.String" itemvalue="pyparsing" />
             <item index="15" class="java.lang.String" itemvalue="Cython" />
             <item index="16" class="java.lang.String" itemvalue="pyowm" />
+            <item index="17" class="java.lang.String" itemvalue="telebot" />
+            <item index="18" class="java.lang.String" itemvalue="xlutils" />
+            <item index="19" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="20" class="java.lang.String" itemvalue="xlwt" />
+            <item index="21" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="22" class="java.lang.String" itemvalue="urllib3" />
+            <item index="23" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="24" class="java.lang.String" itemvalue="xlrd" />
+            <item index="25" class="java.lang.String" itemvalue="idna" />
           </list>
         </value>
       </option>
